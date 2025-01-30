@@ -1,0 +1,10 @@
+name = "MultilinePluto"
+uuid = "03e6a3a4-bfb0-4e97-8fcd-ee093f6af83b"
+authors = ["Mason Protter <mason.protter@icloud.com>"]
+version = "0.1.0"
+
+[deps]
+Pluto = "c3e4b0f8-55cb-11ea-2926-15256bba5781"
+
+[compat]
+Pluto = "0.12.0-0.20.4"
